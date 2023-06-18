@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismaelcd23
+- 👋 Hi, I’m Ismail Sidi Ali
 - 👀 I’m interested in Software Development and Coding
 - 🌱 I’m currently learning Software Development course
 - 💞️ I’m looking to collaborate on Concepts, Resources & Tutorials
